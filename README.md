@@ -8,7 +8,7 @@ A user-friendly password manager built with React.
 - Copy passwords to clipboard
 
 ## Usage
-To use this app in your local storage run the code below:
+To use this app in your local storage run the code below after downloading the files:
 ```
 npm i
 npm run dev
