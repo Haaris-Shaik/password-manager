@@ -1,8 +1,15 @@
-# React + Vite
+readme_content = """# Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A secure and user-friendly password manager built with React.
 
-Currently, two official plugins are available:
+## Features
+- Storage of passwords
+- Add, update, and delete stored credentials
+- Copy passwords to clipboard
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+To use this app in your local storage run the code below:
+```
+npm i
+npm run dev
+```
