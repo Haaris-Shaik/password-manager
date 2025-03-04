@@ -1,6 +1,6 @@
-readme_content = """# Password Manager
+# Password Manager
 
-A secure and user-friendly password manager built with React.
+A user-friendly password manager built with React.
 
 ## Features
 - Storage of passwords
